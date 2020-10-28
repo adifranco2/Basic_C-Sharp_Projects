@@ -1,0 +1,7 @@
+C:\Users\Amy\Desktop\Basic_C#_Programs\Step140\Step140\bin\Debug\Step140.exe.config
+C:\Users\Amy\Desktop\Basic_C#_Programs\Step140\Step140\bin\Debug\Step140.exe
+C:\Users\Amy\Desktop\Basic_C#_Programs\Step140\Step140\bin\Debug\Step140.pdb
+C:\Users\Amy\Desktop\Basic_C#_Programs\Step140\Step140\obj\Debug\Step140.csprojAssemblyReference.cache
+C:\Users\Amy\Desktop\Basic_C#_Programs\Step140\Step140\obj\Debug\Step140.csproj.CoreCompileInputs.cache
+C:\Users\Amy\Desktop\Basic_C#_Programs\Step140\Step140\obj\Debug\Step140.exe
+C:\Users\Amy\Desktop\Basic_C#_Programs\Step140\Step140\obj\Debug\Step140.pdb
