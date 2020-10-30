@@ -1,0 +1,7 @@
+C:\Users\Amy\source\repos\step168\step168\bin\Debug\step168.exe.config
+C:\Users\Amy\source\repos\step168\step168\bin\Debug\step168.exe
+C:\Users\Amy\source\repos\step168\step168\bin\Debug\step168.pdb
+C:\Users\Amy\source\repos\step168\step168\obj\Debug\step168.csprojAssemblyReference.cache
+C:\Users\Amy\source\repos\step168\step168\obj\Debug\step168.csproj.CoreCompileInputs.cache
+C:\Users\Amy\source\repos\step168\step168\obj\Debug\step168.exe
+C:\Users\Amy\source\repos\step168\step168\obj\Debug\step168.pdb
