@@ -1,0 +1,7 @@
+C:\Users\Amy\source\repos\Step159\Step159\obj\Debug\Step159.csprojAssemblyReference.cache
+C:\Users\Amy\source\repos\Step159\Step159\obj\Debug\Step159.csproj.CoreCompileInputs.cache
+C:\Users\Amy\source\repos\Step159\Step159\bin\Debug\Step159.exe.config
+C:\Users\Amy\source\repos\Step159\Step159\bin\Debug\Step159.exe
+C:\Users\Amy\source\repos\Step159\Step159\bin\Debug\Step159.pdb
+C:\Users\Amy\source\repos\Step159\Step159\obj\Debug\Step159.exe
+C:\Users\Amy\source\repos\Step159\Step159\obj\Debug\Step159.pdb
