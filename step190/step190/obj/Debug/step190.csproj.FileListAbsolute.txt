@@ -1,0 +1,7 @@
+C:\Users\Amy\source\repos\step190\step190\bin\Debug\step190.exe.config
+C:\Users\Amy\source\repos\step190\step190\bin\Debug\step190.exe
+C:\Users\Amy\source\repos\step190\step190\bin\Debug\step190.pdb
+C:\Users\Amy\source\repos\step190\step190\obj\Debug\step190.csprojAssemblyReference.cache
+C:\Users\Amy\source\repos\step190\step190\obj\Debug\step190.csproj.CoreCompileInputs.cache
+C:\Users\Amy\source\repos\step190\step190\obj\Debug\step190.exe
+C:\Users\Amy\source\repos\step190\step190\obj\Debug\step190.pdb
