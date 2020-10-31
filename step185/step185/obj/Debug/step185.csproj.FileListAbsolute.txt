@@ -1,0 +1,7 @@
+C:\Users\Amy\source\repos\step185\step185\bin\Debug\step185.exe.config
+C:\Users\Amy\source\repos\step185\step185\bin\Debug\step185.exe
+C:\Users\Amy\source\repos\step185\step185\bin\Debug\step185.pdb
+C:\Users\Amy\source\repos\step185\step185\obj\Debug\step185.csprojAssemblyReference.cache
+C:\Users\Amy\source\repos\step185\step185\obj\Debug\step185.csproj.CoreCompileInputs.cache
+C:\Users\Amy\source\repos\step185\step185\obj\Debug\step185.exe
+C:\Users\Amy\source\repos\step185\step185\obj\Debug\step185.pdb
