@@ -1,0 +1,7 @@
+C:\Users\Amy\source\repos\step198\step198\bin\Debug\step198.exe.config
+C:\Users\Amy\source\repos\step198\step198\bin\Debug\step198.exe
+C:\Users\Amy\source\repos\step198\step198\bin\Debug\step198.pdb
+C:\Users\Amy\source\repos\step198\step198\obj\Debug\step198.csprojAssemblyReference.cache
+C:\Users\Amy\source\repos\step198\step198\obj\Debug\step198.csproj.CoreCompileInputs.cache
+C:\Users\Amy\source\repos\step198\step198\obj\Debug\step198.exe
+C:\Users\Amy\source\repos\step198\step198\obj\Debug\step198.pdb
