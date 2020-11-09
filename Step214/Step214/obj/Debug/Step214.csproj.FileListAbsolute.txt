@@ -1,0 +1,7 @@
+C:\Users\Amy\source\repos\Step214\Step214\bin\Debug\Step214.exe.config
+C:\Users\Amy\source\repos\Step214\Step214\bin\Debug\Step214.exe
+C:\Users\Amy\source\repos\Step214\Step214\bin\Debug\Step214.pdb
+C:\Users\Amy\source\repos\Step214\Step214\obj\Debug\Step214.csprojAssemblyReference.cache
+C:\Users\Amy\source\repos\Step214\Step214\obj\Debug\Step214.csproj.CoreCompileInputs.cache
+C:\Users\Amy\source\repos\Step214\Step214\obj\Debug\Step214.exe
+C:\Users\Amy\source\repos\Step214\Step214\obj\Debug\Step214.pdb
