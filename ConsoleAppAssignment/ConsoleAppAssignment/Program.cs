@@ -75,6 +75,7 @@ namespace ConsoleAppAssignment
                 if (selection == candy[s])
                 {
                     Console.WriteLine(candy.IndexOf(selection));
+                    break;
                 }
                 else if (selection != candy[s])
                 {
