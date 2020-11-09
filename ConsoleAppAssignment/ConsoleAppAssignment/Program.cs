@@ -75,12 +75,11 @@ namespace ConsoleAppAssignment
                 if (selection == candy[s])
                 {
                     Console.WriteLine(candy.IndexOf(selection));
-                    break;
                 }
                 else if (selection != candy[s])
                 {
                     Console.WriteLine("Your candy was not found.");
-                    break;
+                    
                 }
             }
 
@@ -97,12 +96,11 @@ namespace ConsoleAppAssignment
                 if (clothes[k] == item)
                 {
                     Console.WriteLine("Match found at index " + k);
-                    break;
                 }
                 else if (clothes[k] != item)
                 {
                     Console.WriteLine("Your item was not found.");
-                    break;
+                    
                 }
             }
 
