@@ -1,0 +1,7 @@
+C:\Users\Amy\source\repos\Step223\Step223\obj\Debug\Step223.csprojAssemblyReference.cache
+C:\Users\Amy\source\repos\Step223\Step223\obj\Debug\Step223.csproj.CoreCompileInputs.cache
+C:\Users\Amy\source\repos\Step223\Step223\bin\Debug\Step223.exe.config
+C:\Users\Amy\source\repos\Step223\Step223\bin\Debug\Step223.exe
+C:\Users\Amy\source\repos\Step223\Step223\bin\Debug\Step223.pdb
+C:\Users\Amy\source\repos\Step223\Step223\obj\Debug\Step223.exe
+C:\Users\Amy\source\repos\Step223\Step223\obj\Debug\Step223.pdb
