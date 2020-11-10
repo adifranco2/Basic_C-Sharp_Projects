@@ -65,24 +65,31 @@ namespace ConsoleAppAssignment
 
             List<string> candy = new List<string>() { "Snickers", "Reeses", "Butterfinger", "Almond Joy", "Starburst" };
 
-            Console.WriteLine("Did you favorite Halloween candy make the list? Enter it to find out.");
-            string selection = Console.ReadLine();
+            bool chosenCandy = false;
 
-            //Console.WriteLine("{0}", candy.FindIndex(x => x.Contains(selection)));
-
-            for (int s = 0; s < candy.Count; s++)
+            do
             {
-                if (selection == candy[s])
+
+                Console.WriteLine("Did you favorite Halloween candy make the list? Enter it to find out.");
+                string selection = Console.ReadLine();
+
+                //Console.WriteLine("{0}", candy.FindIndex(x => x.Contains(selection)));
+
+
+                if (candy.Contains(selection))
                 {
                     Console.WriteLine(candy.IndexOf(selection));
-                    break;
+                    chosenCandy = true;
                 }
-                else if (selection != candy[s])
+                else if (!candy.Contains(selection))
                 {
                     Console.WriteLine("Your candy was not found.");
-                    
+
                 }
+                Console.ReadLine();
             }
+            while (chosenCandy == false);
+
 
             //part five
 
