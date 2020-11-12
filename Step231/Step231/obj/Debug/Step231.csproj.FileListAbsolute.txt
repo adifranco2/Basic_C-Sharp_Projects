@@ -1,0 +1,7 @@
+C:\Users\Amy\source\repos\Step231\Step231\obj\Debug\Step231.csprojAssemblyReference.cache
+C:\Users\Amy\source\repos\Step231\Step231\obj\Debug\Step231.csproj.CoreCompileInputs.cache
+C:\Users\Amy\source\repos\Step231\Step231\bin\Debug\Step231.exe.config
+C:\Users\Amy\source\repos\Step231\Step231\bin\Debug\Step231.exe
+C:\Users\Amy\source\repos\Step231\Step231\bin\Debug\Step231.pdb
+C:\Users\Amy\source\repos\Step231\Step231\obj\Debug\Step231.exe
+C:\Users\Amy\source\repos\Step231\Step231\obj\Debug\Step231.pdb
