@@ -1,0 +1,7 @@
+C:\Users\Amy\source\repos\Step228\Step228\bin\Debug\Step228.exe.config
+C:\Users\Amy\source\repos\Step228\Step228\bin\Debug\Step228.exe
+C:\Users\Amy\source\repos\Step228\Step228\bin\Debug\Step228.pdb
+C:\Users\Amy\source\repos\Step228\Step228\obj\Debug\Step228.csprojAssemblyReference.cache
+C:\Users\Amy\source\repos\Step228\Step228\obj\Debug\Step228.csproj.CoreCompileInputs.cache
+C:\Users\Amy\source\repos\Step228\Step228\obj\Debug\Step228.exe
+C:\Users\Amy\source\repos\Step228\Step228\obj\Debug\Step228.pdb
