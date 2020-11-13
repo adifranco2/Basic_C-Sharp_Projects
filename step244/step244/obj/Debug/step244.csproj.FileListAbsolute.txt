@@ -1,0 +1,7 @@
+C:\Users\Amy\source\repos\step244\step244\bin\Debug\step244.exe.config
+C:\Users\Amy\source\repos\step244\step244\bin\Debug\step244.exe
+C:\Users\Amy\source\repos\step244\step244\bin\Debug\step244.pdb
+C:\Users\Amy\source\repos\step244\step244\obj\Debug\step244.csprojAssemblyReference.cache
+C:\Users\Amy\source\repos\step244\step244\obj\Debug\step244.csproj.CoreCompileInputs.cache
+C:\Users\Amy\source\repos\step244\step244\obj\Debug\step244.exe
+C:\Users\Amy\source\repos\step244\step244\obj\Debug\step244.pdb
