@@ -1,0 +1,7 @@
+C:\Users\Amy\source\repos\Step247\Step247\bin\Debug\Step247.exe.config
+C:\Users\Amy\source\repos\Step247\Step247\bin\Debug\Step247.exe
+C:\Users\Amy\source\repos\Step247\Step247\bin\Debug\Step247.pdb
+C:\Users\Amy\source\repos\Step247\Step247\obj\Debug\Step247.csprojAssemblyReference.cache
+C:\Users\Amy\source\repos\Step247\Step247\obj\Debug\Step247.csproj.CoreCompileInputs.cache
+C:\Users\Amy\source\repos\Step247\Step247\obj\Debug\Step247.exe
+C:\Users\Amy\source\repos\Step247\Step247\obj\Debug\Step247.pdb
