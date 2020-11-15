@@ -1,0 +1,7 @@
+C:\Users\Amy\source\repos\step255\step255\bin\Debug\step255.exe.config
+C:\Users\Amy\source\repos\step255\step255\bin\Debug\step255.exe
+C:\Users\Amy\source\repos\step255\step255\bin\Debug\step255.pdb
+C:\Users\Amy\source\repos\step255\step255\obj\Debug\step255.csprojAssemblyReference.cache
+C:\Users\Amy\source\repos\step255\step255\obj\Debug\step255.csproj.CoreCompileInputs.cache
+C:\Users\Amy\source\repos\step255\step255\obj\Debug\step255.exe
+C:\Users\Amy\source\repos\step255\step255\obj\Debug\step255.pdb
