@@ -12,28 +12,30 @@ namespace step252
         public string firstName { get; set; }
         public string lastName { get; set; }
 
-        
+
 
         public static bool operator== (Employee employee, Employee employee1)
         {
-            if (ReferenceEquals(employee.Id, employee1.Id))
+            bool result = false;
+
+            if (employee.Id == employee1.Id)
             {
-                return true;
+                result = true;
             }
-            if (ReferenceEquals(employee.Id, null))
-            {
-                return false;
-            }
-            if (ReferenceEquals(employee1.Id, null))
-            {
-                return false;
-            }
-            return employee.Id.Equals(employee1.Id);
-        }
-        public static bool operator!= (Employee employee, Employee employee1)
-        {
-            return !(employee.Id == employee1.Id);
+
+            return result;
         }
 
+        public static bool operator!= (Employee employee, Employee employee1)
+        {
+            bool result = false;
+
+            if (employee.Id != employee1.Id)
+            {
+                result = true;
+            }
+
+            return result;
+        }
     }
 }

@@ -13,10 +13,8 @@ namespace step252
             Employee employee = new Employee() { Id = 1, firstName = "Steve" };
             Employee employee1 = new Employee() { Id = 2, firstName = "Jane"};
 
-            ReferenceEquals(employee.Id, employee1.Id);
-            Console.WriteLine();
-
-            
+            Console.WriteLine("Are the employee Ids equal?");
+            Console.WriteLine(employee == employee1);    
             
             Console.ReadLine();
 
