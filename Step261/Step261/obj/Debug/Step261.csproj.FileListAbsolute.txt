@@ -1,0 +1,7 @@
+C:\Users\Amy\source\repos\Step261\Step261\bin\Debug\Step261.exe.config
+C:\Users\Amy\source\repos\Step261\Step261\bin\Debug\Step261.exe
+C:\Users\Amy\source\repos\Step261\Step261\bin\Debug\Step261.pdb
+C:\Users\Amy\source\repos\Step261\Step261\obj\Debug\Step261.csprojAssemblyReference.cache
+C:\Users\Amy\source\repos\Step261\Step261\obj\Debug\Step261.csproj.CoreCompileInputs.cache
+C:\Users\Amy\source\repos\Step261\Step261\obj\Debug\Step261.exe
+C:\Users\Amy\source\repos\Step261\Step261\obj\Debug\Step261.pdb
