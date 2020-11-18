@@ -1,0 +1,7 @@
+C:\Users\Amy\source\repos\step 272\step 272\bin\Debug\step 272.exe.config
+C:\Users\Amy\source\repos\step 272\step 272\bin\Debug\step 272.exe
+C:\Users\Amy\source\repos\step 272\step 272\bin\Debug\step 272.pdb
+C:\Users\Amy\source\repos\step 272\step 272\obj\Debug\step 272.csprojAssemblyReference.cache
+C:\Users\Amy\source\repos\step 272\step 272\obj\Debug\step 272.csproj.CoreCompileInputs.cache
+C:\Users\Amy\source\repos\step 272\step 272\obj\Debug\step 272.exe
+C:\Users\Amy\source\repos\step 272\step 272\obj\Debug\step 272.pdb
