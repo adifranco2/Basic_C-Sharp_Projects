@@ -23,20 +23,28 @@ namespace step_272
             employees.Add(new Employee() { FirstName = "Bo", LastName = "Green", Id = 9 });
             employees.Add(new Employee() { FirstName = "Joe", LastName = "Brady", Id = 10 });
 
+            List<Employee> Joes = new List<Employee>();
+            
             foreach (Employee employee in employees)
             {
                 if (employee.FirstName == "Joe")
                 {
+                    Joes.Add(new Employee
+                    {
+                        FirstName = employee.FirstName,
+                        LastName = employee.LastName,
+                        Id = employee.Id
+                    });
                     Console.WriteLine(employee.FirstName + " " + employee.LastName);
                 }
             }
             
             Console.WriteLine();
 
-            var Joes = employees.Where(x => x.FirstName == "Joe");
-            foreach (var value in Joes)
+            List<Employee> newList = employees.Where(x => x.FirstName == "Joe").ToList();
+            foreach (Employee employee1 in newList)
             {
-                Console.WriteLine(value.FirstName + " " + value.LastName);
+                Console.WriteLine(employee1.FirstName + " " + employee1.LastName);
             }
             
             Console.WriteLine();
