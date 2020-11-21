@@ -1,0 +1,7 @@
+C:\Users\Amy\source\repos\step300\step300\bin\Debug\step300.exe.config
+C:\Users\Amy\source\repos\step300\step300\bin\Debug\step300.exe
+C:\Users\Amy\source\repos\step300\step300\bin\Debug\step300.pdb
+C:\Users\Amy\source\repos\step300\step300\obj\Debug\step300.csprojAssemblyReference.cache
+C:\Users\Amy\source\repos\step300\step300\obj\Debug\step300.csproj.CoreCompileInputs.cache
+C:\Users\Amy\source\repos\step300\step300\obj\Debug\step300.exe
+C:\Users\Amy\source\repos\step300\step300\obj\Debug\step300.pdb
