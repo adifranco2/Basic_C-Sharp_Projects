@@ -10,6 +10,15 @@ namespace step310
     {
         static void Main(string[] args)
         {
+            const string phrase = "This is a constant variable.";
+            var number = 5;
+
+            public Employee(
+            {
+                this.FirstName = fName;
+                this.
+
+            }
         }
     }
 }
