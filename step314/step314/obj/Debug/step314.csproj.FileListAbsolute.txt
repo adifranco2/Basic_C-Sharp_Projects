@@ -1,0 +1,7 @@
+C:\Users\Amy\source\repos\step314\step314\bin\Debug\step314.exe.config
+C:\Users\Amy\source\repos\step314\step314\bin\Debug\step314.exe
+C:\Users\Amy\source\repos\step314\step314\bin\Debug\step314.pdb
+C:\Users\Amy\source\repos\step314\step314\obj\Debug\step314.csprojAssemblyReference.cache
+C:\Users\Amy\source\repos\step314\step314\obj\Debug\step314.csproj.CoreCompileInputs.cache
+C:\Users\Amy\source\repos\step314\step314\obj\Debug\step314.exe
+C:\Users\Amy\source\repos\step314\step314\obj\Debug\step314.pdb
