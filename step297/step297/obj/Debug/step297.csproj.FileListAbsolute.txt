@@ -1,0 +1,7 @@
+C:\Users\Amy\source\repos\step297\step297\bin\Debug\step297.exe.config
+C:\Users\Amy\source\repos\step297\step297\bin\Debug\step297.exe
+C:\Users\Amy\source\repos\step297\step297\bin\Debug\step297.pdb
+C:\Users\Amy\source\repos\step297\step297\obj\Debug\step297.csprojAssemblyReference.cache
+C:\Users\Amy\source\repos\step297\step297\obj\Debug\step297.csproj.CoreCompileInputs.cache
+C:\Users\Amy\source\repos\step297\step297\obj\Debug\step297.exe
+C:\Users\Amy\source\repos\step297\step297\obj\Debug\step297.pdb
