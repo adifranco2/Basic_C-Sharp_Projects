@@ -13,12 +13,7 @@ namespace step310
             const string phrase = "This is a constant variable.";
             var number = 5;
 
-            public Employee(
-            {
-                this.FirstName = fName;
-                this.
-
-            }
+            Employee emp1 = new Employee(3);
         }
     }
 }
